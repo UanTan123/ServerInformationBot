@@ -5,7 +5,7 @@ import os
 import sys
 
 client = discord.Client()
-token = "Nzg1ODY1MjE3MTQwODUwNjk5.X8-EBA.5dAj0Jo5Sm2QbHK30xXrpGXL2no"
+token = "token"
 p = '!'
 
 @client.event
